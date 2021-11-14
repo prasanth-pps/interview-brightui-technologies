@@ -1,0 +1,12 @@
+Notifier name*,Notifier address*,Notifier City*,Notifier State*,Notifier Country*,Notifier Zipcode*,Notifier email*,Notifier phone*,Relationship to the Deceased*,Notifier is the person dealing with estate?*,Person dealing name,Person dealing phone,Notifier willing for the bank/TDR to verify their identity and address?*,Form ID & Form NO,Has probate been applied for?*,Is Notifier willing to be contacted by Creditor?*,Prefer to be contacted,First name of Deceased*,Last name of Deceased*,Present Address*,Present City*,Present State*,Present Country*,Present Zipcode*,Previous Address,Previous City,Previous State,Previous Country,Previous Zipcode,Second Previous Address,Second Previous City,Second Previous State,Second Previous Country,Second Previous Zipcode,Third Previous Address,Third Previous City,Third Previous State,Third Previous Country,Third Previous Zipcode,Date of Birth*,Date of Death*,Cause of Death*,Certificate*,Certificate Number*,Identification*,Identification Number*,Document,Asset Type,Account Number
+Test,test address,ID of city,ID of state,ID of country,542132,test@gmail.com1,132,friend,"1 � if Yes
+0 � if No",If no -  enter person name,If no -  enter person phone number,"1 � if Yes
+0 � if No","If yes, then give Form ID and Form NO
+
+id-32~id1-33
+Formid and form no should be separated by hyphen. Multiple form ID and No should be separate by tidle symbol","1 � if Yes
+0 � if No","1 � if Yes
+0 � if No","1 � if email
+2 � if phone
+3 � if mail
+1-2-3  -> Separated by hyphen",test first name,test last name,No 1/23,ID of city,ID of state,ID of country,548542,,,,,,,,,,,,,,,,2020-06-01,2020-06-08,ID of causeof death,ID of certificate,546454,ID of identification,454,upload certificate in drive and paste that url here. If multiple urls  then seperate with tilde(~) symbol,credit card,5656565
